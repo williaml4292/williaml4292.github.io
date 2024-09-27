@@ -3,9 +3,10 @@ html, body {
 }
 
 body {
-    font: 20px Montserrat, sans-serif;
+    font: 20px Edu Australia VIC WA NT Hand Dots;
     line-height: 1.8;
     color: #f5f6f7;
+    border:#0256F0;
 }
 
 p {
