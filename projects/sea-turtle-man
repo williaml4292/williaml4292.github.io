@@ -1,0 +1,25 @@
+    <html>
+    <head>
+    <link rel="stylesheet" type="text/css" href="index.css"/>
+ <link href="https://fonts.googleapis.com/css2?family=Abel&display=swap" rel="stylesheet">
+    </head>
+    <body>
+    <h1> The Attack </h1>
+    <h4> Hunger</h4>
+    <div> <!-- Shark is hungry -->
+        <img src="./shark.png"
+    <p> However, the day after that, the <span id="shark">shark </span> got hungry.</p>
+    </div>
+    <h4> A moment before disaster</h4>
+    <div class="approach"> <!-- Shark comes to the reef -->
+        <img src ="./corals.png"
+    <p> It approached the place with the most food, the coral reef.</p>
+    </div>
+    <h4> A Hero</h4>
+    <div id="leave"> <!-- Turtle keps blocking until shark leaves -->
+        <img src="./turtle.png"
+    <p> There, it met <span> Turtle Man</span>, who shielded the residents from the ferocious <span id="shark">shark. </span> </p>
+    </div>
+    <a href="./index.html"> Go back?</a>
+    </body>
+    </html>
